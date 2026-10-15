@@ -1,4 +1,4 @@
-1-Quantos passageiros sobreviveram?
+1-Quantos passageiros sobreviveram?\n
 sobreviveram 152 pessoas
 
 2-Qual era a proporção entre homens e mulheres?
